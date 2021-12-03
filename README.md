@@ -1,7 +1,7 @@
-# ar
+# AR.js
 
-## h2 AR-сцена
+## AR-сцена
 [ссылка для открытия AR-сцены](https://raw.githack.com/egmanoylin/ar/main/index.html)
 
-## h2 Метка
+## Метка
 ![Метка](./marker.png)
